@@ -1,2 +1,2 @@
 # Preview-Image-Before-Upload-in-JavaScript-
-<a href='https://youtu.be/jTT6HMf8NqM'><img src='https://i9.ytimg.com/vi/jTT6HMf8NqM/hqdefault.jpg?v=6224f00f&sqp=CKDtk5EG&rs=AOn4CLCizPNs8NF2G8ug4KBan3qSIp7r6Q'></a>
+<a href='https://youtu.be/jTT6HMf8NqM'><img src='https://i9.ytimg.com/vi/jTT6HMf8NqM/maxresdefault.jpg?time=1651097700000&sqp=COSAp5MG&rs=AOn4CLD1a5JBs6viOh2dsddwqR97CFbgjA'></a>
